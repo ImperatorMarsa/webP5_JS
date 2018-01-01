@@ -1,0 +1,144 @@
+body {
+	background-color: #3D1309;
+	margin: 0px;
+}
+
+.krayashekR {
+	color: #ffffff;
+	background-color: #040002;
+	position: fixed; 
+	top: 0px;
+	overflow:auto;
+	left: 80%;
+	width: 20%;
+	height: 73px;
+}
+
+.centr {
+	color: #BC5D15;
+	background-color: #040002;
+	position: fixed; 
+	top: 0px;
+	overflow:auto;
+	left: 20%;
+	width: 60%;
+	height: 73px;
+}
+
+.centr p{
+	font: 12pt/10pt 'ALGERIAN';
+	font-size: 42px;
+	width: 251px;
+	cursor: default;
+	height: 15px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	margin: auto;
+}
+.sbornik {
+	width: 100%;
+	height: 300px;
+}
+
+.stishok1 h1{
+	font: 12pt/10pt 'brush script mt';
+	font-size: 52px;
+	width: 98%;
+	left: 5px;
+	right: 5px;
+	cursor: default;
+	height: 15px;
+	position: absolute;
+	top: 15px;
+	margin: auto;
+}
+
+.stishok2 h1{
+	font: 12pt/10pt 'brush script mt';
+	font-size: 52px;
+	width: 98%;
+	left: 5px;
+	right: 5px;
+	cursor: default;
+	height: 15px;
+	position: absolute;
+	top: 15px;
+	margin: auto;
+}
+
+.stishok1 p{
+	font: 12pt/15pt 'brush script mt';
+	font-size: 22px;
+	width: 98%;
+	left: 5px;
+	right: 5px;
+	cursor: default;
+	height: 15px;
+	position: absolute;
+	top: 55px;
+	margin: auto;
+}
+
+.stishok2 p{
+	font: 12pt/15pt 'brush script mt';
+	font-size: 22px;
+	width: 98%;
+	left: 5px;
+	right: 5px;
+	cursor: default;
+	height: 15px;
+	position: absolute;
+	top: 55px;
+	margin: auto;
+}
+.stishok1 {
+	padding: 3px;
+	background-color: #E8B96A;
+	border: 12px double #BC5D15 ;
+	color: #5C0F00;
+	position: absolute;
+	height: 300px;
+	width: 30%;
+	left: 0%;
+	margin: 0% 10%;
+}
+
+.stishok2 {
+	padding: 3px;
+	background-color: #E8B96A;
+	border: 12px double #BC5D15 ;
+	color: #5C0F00;
+	position: absolute;
+	height: 300px;
+	width: 30%;
+	left: 50%;
+	margin: 0% 10%;
+}
+
+.krayashekL {
+	color: #ffffff;
+	background-color: #040002;
+	position: fixed; 
+	top: 0px;
+	overflow:auto;
+	left: 0%;
+	width: 20%;
+	height: 73px;
+}
+
+#Ukozatel_na_holst {
+	padding-top: 73px;
+}
+
+#pisya {
+	color: red;
+	background-color: orange;
+	border: 5px solid black;
+	width: 300px;
+	height: 300px;
+	padding: 5px;
+	margin: 4px;
+}
